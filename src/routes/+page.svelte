@@ -14,7 +14,7 @@
 </script>
 
 <div
-  class="h-screen grid justify-items-center grid-rows-2 bg-neutral-900 text-violet-50"
+  class="h-screen grid justify-items-center grid-rows-2 bg-neutral-900 text-neutral-100"
 >
   <main
     class="content row-span-2 flex flex-col justify-center gap-14 items-center"
