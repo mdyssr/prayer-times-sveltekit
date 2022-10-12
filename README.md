@@ -6,7 +6,7 @@ Show Islamic Prayers times and Islamic Hijri date
 
 [ ] - Add svelte store <br>
 [ ] - Add English language route <br>
-[ ] - Deploy to Vercel <br>
+[x] - Deploy to Vercel <br>
 [ ] - Share on LinkedIn <br>
 
 Made by Muhammad Yasser @ the 2022

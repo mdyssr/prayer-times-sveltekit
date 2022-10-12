@@ -8,6 +8,8 @@ export const load: PageServerLoad = async ({ fetch }) => {
   const response = await fetch(url);
   const prayersData: PrayersData = await response.json();
 
+  console.log(prayersData);
+
   return {
     prayersData,
   };
