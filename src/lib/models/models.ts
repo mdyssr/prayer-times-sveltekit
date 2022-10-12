@@ -28,16 +28,6 @@ export interface FormattedPrayerTiming {
   Time: PrayerTimeDetails;
 }
 
-// interface FormattedPrayerTimings {
-//   Fajr: FormattedPrayerTiming;
-//   Sunrise: FormattedPrayerTiming;
-//   Dhuhr: FormattedPrayerTiming;
-//   Asr: FormattedPrayerTiming;
-//   Sunset: FormattedPrayerTiming;
-//   Maghrib: FormattedPrayerTiming;
-//   Isha: FormattedPrayerTiming;
-// }
-
 interface HijriDate {
   day: string;
   weekday: {
@@ -75,5 +65,3 @@ export interface PrettyPrayerTime {
   };
   // isNextPrayer: boolean;
 }
-
-// export default {};

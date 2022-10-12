@@ -8,7 +8,6 @@
   const hijriDate = prayersData.HijriDate;
 
   const arHijriDate = `${hijriDate.weekday.ar}، ${hijriDate.day} ${hijriDate.month.ar} ${hijriDate.year}`;
-  // const enHijriDate = `${hijriDate.weekday.en}، ${hijriDate.day} ${hijriDate.month.en} ${hijriDate.year}`;
 
   const formattedTimes = prayersData.PrayerTimings.map(formatStandradTime);
 </script>
@@ -22,7 +21,6 @@
     <section class="date">
       <h1 class="font-bold text-2xl">
         {arHijriDate}
-        <!-- {arHijriDate} -->
       </h1>
     </section>
 
