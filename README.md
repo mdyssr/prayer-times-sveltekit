@@ -4,7 +4,7 @@ Show Islamic Prayers times and Islamic Hijri date
 
 ### Todos:
 
-[ ] - Add svelte store
+[ ] - Add svelte store <br>
 [ ] - Add English language route <br>
 [ ] - Deploy to Vercel <br>
 [ ] - Share on LinkedIn <br>
